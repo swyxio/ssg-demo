@@ -1,6 +1,6 @@
 # ssg demo repo
 
-by default, this readme file as well as any other markdown files is read by `ssg` as `ssgCoreData`.
+By default, `ssg` reads all Markdown files in the project root. You can modify this by creating a [`ssg.config.js`](https://github.com/sw-yx/ssg/blob/master/packages/ssg/README.md#core-data) cconfiguration file.
 
-run `yarn start` to see this locally, `yarn build` for production.
+Run `yarn start` to see this locally, `yarn build` for production.
 
