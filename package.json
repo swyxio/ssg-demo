@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ssg": "^0.0.59"
+  },
+  "name": "testssg2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ssg dev"
+  }
+}
